@@ -1,16 +1,18 @@
 # BufferOverflow Series
-
 This repo is a documentation of some Buffer Overflow vulnerabilities, with the purpose of practicing BOF for Offensive Security Certified Professional (OSCP)
 
+
 ### Requirements:
-- [VMWare Workstation Player](https://www.vmware.com/au/products/workstation-player/workstation-player-evaluation.html) installed 
+- [VMWare Workstation Player](https://www.vmware.com/au/products/workstation-player/workstation-player-evaluation.html) 
 - Your choice of Operating System for penetration testing as attacking machine (Recommended: Kali Linux by Offensive Security, Parrot Security)
-- Windows virtual machine as victim (Recommended: [90-days Windows 10 Enterprise](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise)
-- [Immunity Debugger](https://www.immunityinc.com/products/debugger/) installed on victim machine
+- Windows virtual machine (Recommended: [90-days Windows 10 Enterprise](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise)
+- [Immunity Debugger](https://www.immunityinc.com/products/debugger/)
+
 
 ### Technical requirements:
 - Basic understanding of Python and assembly
 - Understanding of Buffer Overflow and Ethical hacking (Recommended: TheCyberMentor BOF Series on Youtube and his Practical Ethical Hacking course on Udemy)
+
 
 ### Disclaimer:
 - Codes in this repo are used for self-educational purpose only, do not use them against any machines outside of your own lab
