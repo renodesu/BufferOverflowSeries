@@ -12,7 +12,7 @@ This repo is a documentation of some Buffer Overflow vulnerabilities, with the p
 - Basic understanding of Python and assembly
 - Understanding of Buffer Overflow and Ethical hacking (Recommended: TheCyberMentor BOF Series on Youtube and his Practical Ethical Hacking course on Udemy)
 
-### Cautions:
+### Disclaimer:
 - Codes in this repo are used for self-educational purpose only, do not use them against any machines outside of your own lab
 - This repo's owner will not take any responsibility for any damages caused by viewers of the repo
 
