@@ -19,7 +19,7 @@ This repo is a documentation of some Buffer Overflow vulnerabilities, with the p
 - This repo's owner will not take any responsibility for any damages caused by viewers of the repo
 
 
-### List of BoF Vulnerabilities:
+### List of BoF-Vulnerable Software:
 #### SyncBreeze 10.0.28
 - [Exploit-db](https://www.exploit-db.com/exploits/42928)
 - [Download software](https://www.exploit-db.com/apps/959f770895133edc4cf65a4a02d12da8-syncbreezeent_setup_v10.0.28.exe)
